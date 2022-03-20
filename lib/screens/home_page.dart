@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
         title: Center(
           child: Text(
             "Automobiles",
-            style: TextStyle(fontSize: 28, color: Colors.black),
+            style: TextStyle(fontSize: 27, color: Colors.black),
           ),
         ),
 
